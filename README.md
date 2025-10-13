@@ -12,5 +12,5 @@ This repository contains C programs demonstrating the implementation of fundamen
   1. Traversal
   2. Insertion
   3. Deletion
-  4. Searching
-  5. Sorting
+  4. Searching (Linear)
+  5. Sorting (Bubble)
