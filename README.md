@@ -20,16 +20,16 @@ This repository contains C programs demonstrating the implementation of fundamen
      2. Insertion (Beginning, End, Specific Position)
      3. Deletion (Beginning, End, Specific Position)
      4. Searching
-     5. Reversal
+     5. Counting Nodes
   2. Doubly Linked List
      1. Traversal
      2. Insertion (Beginning, End, Specific Position)
      3. Deletion (Beginning, End, Specific Position)
      4. Searching
-     5. Reversal
+     5. Counting Nodes
   3. Circular Linked List
      1. Traversal
      2. Insertion (Beginning, End, Specific Position)
      3. Deletion (Beginning, End, Specific Position)
      4. Searching
-     5. Reversal
+     5. Counting Nodes
