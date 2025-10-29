@@ -139,7 +139,7 @@ void insertAny(){
             i->next=newnode;
         }
         //----------(Part-3.4: Available in the beginning or middle)
-        else if(i->next!=NULL){ // 4 changes
+        else if(i->next!=NULL){ // 4 Changes
             newnode->next=i->next;
             i->next->prev=newnode;
             newnode->prev=i;
@@ -314,4 +314,5 @@ int main(){
     
     printBackward();
     return 0;
+
 }
