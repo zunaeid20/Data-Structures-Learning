@@ -27,18 +27,6 @@ This repository contains C programs demonstrating the implementation of fundamen
      3. Deletion (Beginning, End, Specific Position)
      4. Searching
      5. Counting Nodes
-  3. Circular Singly Linked List
-     1. Traversal (Forward)
-     2. Insertion (Beginning, End, Specific Position)
-     3. Deletion (Beginning, End, Specific Position)
-     4. Searching
-     5. Counting Nodes
-  4. Circular Doubly Linked List
-     1. Traversal (Forward, Backward)
-     2. Insertion (Beginning, End, Specific Position)
-     3. Deletion (Beginning, End, Specific Position)
-     4. Searching
-     5. Counting Nodes
 - Stacks
   1. push(x)
   2. pop()
