@@ -28,11 +28,12 @@ This repository contains C programs demonstrating the implementation of fundamen
      4. Searching
      5. Counting Nodes
 - Stacks
-  1. push(x)
-  2. pop()
-  3. top()/peek()
+  1. display()
+  2. push(x)
+  3. pop()
   4. isEmpty()
-  5. isFull()
+  5. top()/peek()
+  6. countNodes()
 - Queues
   1. enqueue(x)
   2. dequeue()
