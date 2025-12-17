@@ -42,3 +42,7 @@ This repository contains C programs demonstrating the implementation of fundamen
   5. frontElement()
   6. rearElement()
   7. countNodes()
+**2. Non-linear Data Structures**
+- Trees
+  1. Binary Trees
+  2. Binary Search Trees (BST)
